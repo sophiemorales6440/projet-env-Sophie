@@ -12,5 +12,14 @@
   "type": "commonjs",
   "dependencies": {
     "dotenv": "^17.2.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sophiemorales6440/projet-env-Sophie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sophiemorales6440/projet-env-Sophie/issues"
+  },
+  "homepage": "https://github.com/sophiemorales6440/projet-env-Sophie#readme"
 }
